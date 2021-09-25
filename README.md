@@ -1,8 +1,5 @@
 ## 연제호
 
-
-
-
 ### Android Developer
 ***
 
@@ -10,7 +7,7 @@
 :love_letter: jehoyeon617@gmail.com
 
 :skull: https://github.com/zeo617
-
+***
 
 
 ### ⚡ skills
