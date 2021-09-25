@@ -1,5 +1,8 @@
 ## 연제호
 
+
+
+
 ### Android Developer
 ***
 
@@ -8,6 +11,18 @@
 
 :skull: https://github.com/zeo617
 
+
+
+### ⚡ skills
+
+
+#### platporms & Language
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+
+#### tools
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
 
