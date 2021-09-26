@@ -1,4 +1,4 @@
-## 연제호
+## 연제호 (JeHo Yeon)
 
 ### Android Developer
 ***
