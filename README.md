@@ -7,6 +7,8 @@
 :love_letter: jehoyeon617@gmail.com
 
 :skull: https://github.com/zeo617
+
+✍️https://zeo617.tistory.com/
 ***
 
 
